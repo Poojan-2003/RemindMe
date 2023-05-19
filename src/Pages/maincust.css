@@ -1,0 +1,206 @@
+
+
+.value{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    width: 1200px;
+    margin-left: 40px;
+    
+}
+.row1{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+}
+
+.ilname , .imname, .ifname{
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+    margin-right: 20px;
+}
+
+.rowtwo{
+    display: flex;
+    font-size: 25px;
+    margin-top: 60px;    
+}
+
+.iemail , .iphone{
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+    margin-right: 20px;
+}
+.colphone{
+    margin-left: 20px;
+}
+.colcity{
+    margin-left: 100px;
+}
+
+.row3{
+    display: flex;
+    font-size: 25px;
+    margin-top: 60px
+
+}
+.iaddress  , .iremarksf{
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+    margin-right: 20px;
+
+}
+.icity{
+    
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+    margin-right: 20px;
+}
+
+.remarksf{
+    font-size: 25px;
+    margin-top: 60px
+    
+}
+
+.colemail{
+    margin-left: 60px;
+}
+.coladdress{
+    margin-left: 35px;
+}
+.colremarksf{
+    margin-left: 25px;
+}
+.cust{
+    display: flex;
+    margin-top: 50px;
+    margin-left:450px;
+    font-size: 40px;
+    
+}
+.mainmain{
+    display: flex;
+    flex-direction: column;
+}
+
+.toggle{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.togglew{
+    margin-left: 10px;
+}
+.btnone{
+    margin-top: 50px;
+    margin-left: 450px;
+}
+.btntwo{
+    font-family: 'Times New Roman', Times, serif;
+    
+    height: 60px;
+    width: 140px;
+    background-color: #4099ff;
+    border: none;
+    font-size: 25px;
+ 
+}
+.btntwo:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+    background-color: white;
+    border:1px solid #4099ff;
+    color: #4099ff;
+}
+
+
+
+
+
+.w{
+    margin-left: 10px;
+}
+
+
+/* Service.js */
+
+.suser{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.sdesc{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.sexpiry{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.srem{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.sser{
+    margin-top: 50px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.iusername , .irem ,.iser,.iexpr, .idesc{
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+}
+.coluuser{
+    margin-left: 110px;
+}
+.collemail{
+    margin-left: 160px;
+}
+.coldesc{
+    margin-left: 70px;
+}
+.colexp{
+    margin-left: 50px;
+}
+.colrem{
+    margin-left: 5px;
+}
+.colser{
+    margin-left: 130px;
+}
+
+.btnservice{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 300px;
+    margin-left: 300px;
+    height: 60px;
+    width: 140px;
+    background-color: #4099ff;
+    border: none;
+    font-size: 25px;
+ 
+}
+.btnservice:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+    background-color: white;
+    border:1px solid #4099ff;
+    color: #4099ff;
+}
+.side{
+    display: flex;
+}
+
+.colserd{
+    margin-left: 40px;
+}

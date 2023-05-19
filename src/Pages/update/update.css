@@ -1,0 +1,93 @@
+.update{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+.user{
+    font-size: 35px;
+}
+.btn{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    height: 60px;
+    width: 140px;
+    background-color: #4099ff;
+    border: none;
+    font-size: large;
+    
+}
+
+.remarks{
+    margin-top: 40px;
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+.iremarks{
+    margin-left: 10px;
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+.uuser{
+    font-size: 40px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.icol{
+    margin-left: 30px;
+}
+.icolu{
+    margin-left: 20px;
+}
+
+.udashboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.useru{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.uiuser , .uiemail , .uidate{
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+.ui{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
+.ucolu ,.ucole{
+    margin-left: 120px;
+}
+
+.ubtn{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 90px;
+    height: 70px;
+    width: 160px;
+    background-color: #4099ff;
+    border: none;
+    font-size: large;
+    color: white;
+    letter-spacing: 0.5px;
+    margin-left: 100px;
+}
+.ubtn:hover{
+    transform: scale(0.9);
+    cursor: pointer;
+    border: 1px solid #4099ff;
+    background-color: white;
+    color: #4099ff;
+}
